@@ -1,4 +1,4 @@
-------DISCRIPTION----------
+------DISCRIPTION---------- <br>
 This project is a Laravel-based application with user authentication functionality. It leverages the laravel/ui package to quickly scaffold login, registration, 
 password reset, and profile management, providing a simple yet customizable UI. 
 The project is designed to handle user sessions securely, with features like password updates and profile picture uploads, ensuring a user-friendly experience.
